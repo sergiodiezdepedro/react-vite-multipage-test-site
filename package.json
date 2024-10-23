@@ -1,7 +1,9 @@
 {
-  "name": "react-vite-multipage-test-site",
+  "name": "guerrero-de-troquel",
+  "author": "Sergio Díez de Pedro",
+  "license": "ISC",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +13,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
